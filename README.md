@@ -12,6 +12,6 @@ linear_regression_2.ipynb:
 ---------------------------
 In this notebook, we will follow the typical ML workflow of initial data analysis and exploratory data analysis to understand the dataset here, followed by modelling and evaluation. We also touch upon regularisation concept in ML algorithms and will discuss two variants (Lasso and Ridge) of Linear Regression. Based on our findings, we will also discuss how these results can be utilised/interpreted in real-world [applied use-cases] for different stakeholders.
 
-logistic regression.ipynb:
+logistic_regression.ipynb:
 ---------------------------
 In this notebook, we will apply logistic regression (despite having regression in its name, it is a classification algorithm) on the same boston house dataset - we will convert the dataset into a binary classification task. We will also look at hyper-parameter tuning during modelling. Furthermore, we touch upon the evaluation metrics (also loss functions) related to this classification task, and their importance in gauging the model's performance.
