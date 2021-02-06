@@ -5,8 +5,7 @@ linear_regression_1.ipynb:
 In this notebook, we will apply linear regression on a synthetically generated data to discuss:
 
 1. The assumptions on data for appropriatedness of applying linear regression algorithm, and how to verify whether these assumptions are met.
-2. Introducing loss function related to regression.
-3. The evaluation metrics and their importance in gauging the model's performance.
+2. The evaluation metrics and their importance in gauging the model's performance.
 
 linear_regression_2.ipynb:
 ---------------------------
@@ -14,4 +13,4 @@ In this notebook, we will follow the typical ML workflow of initial data analysi
 
 logistic_regression.ipynb:
 ---------------------------
-In this notebook, we will apply logistic regression (despite having regression in its name, it is a classification algorithm) on the same boston house dataset - we will convert the dataset into a binary classification task. We will also look at hyper-parameter tuning during modelling. Furthermore, we touch upon the evaluation metrics (also loss functions) related to this classification task, and their importance in gauging the model's performance.
+In this notebook, we will apply logistic regression (despite having regression in its name, it is referred to as a classification algorithm mainly) on the same boston house dataset. We will convert the dataset into a binary classification task. We will also look at hyper-parameter tuning during modelling. Furthermore, we touch upon the evaluation metrics (also loss functions) related to this classification task, and their importance in gauging the model's performance. By discussing its regression working principle, we will provide a few interpretations based on that.
